@@ -65,6 +65,10 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
+<li><a href="https://uniagsfmi.com/blog/"><?php echo esc_html__('UNIAGFMI', 'funintec'); ?></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li><a href="https://cardanosintecnicismos.substack.com/"><?php echo esc_html__('Cardano sin Tecnicismo', 'funintec'); ?></a></li>
 <!-- /wp:list-item -->
 
@@ -73,7 +77,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://cardanolatino.com/cardanoespa%C3%B1ol/Latino-Staking-Pool/"><?php echo esc_html__('Latino Staking Pool', 'funintec'); ?></a></li>
+<li><a href="https://cardanolatino.com/"><?php echo esc_html__('Latino Staking Pool', 'funintec'); ?></a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -85,7 +89,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="#"><?php echo esc_html__('Plataforma Andamio', 'funintec'); ?></a></li>
+<li><a href="https://www.andamio.io/"><?php echo esc_html__('Plataforma Andamio', 'funintec'); ?></a></li>
 <!-- /wp:list-item --></ul>
 
 <!-- /wp:list --></div>
