@@ -6,14 +6,16 @@
  */
 ?>
 
-<div class="row my-3 mx-1" id="graduates">
-    <div class="col-sm-5 px-5 py-5">
+<div class="row my-3 me-1" id="graduates">
+    <div class="col-sm-4 px-5 py-5 mx-sm-5">
         <div class="mt-4 wp-block-group alignwide is-layout-constrained wp-container-38">
             <div class="text-center wp-block-group alignwide has-shadow-dark has-background-background-color has-background is-content-justification-left is-layout-constrained wp-container-22"
                 style="padding-top:15px;padding-right:20px;padding-bottom:15px;padding-left:20px">
                 <h2 class="has-foreground-color has-text-color has-oswold-font-family has-slider-title-font-size"
-                    style="font-style:normal;font-weight:700;line-height:1.3;">Formación<span class="has-primary-color">
-                        Programas</span></h2>
+                    style="font-style:normal;font-weight:700;line-height:1.3;">Formación
+                    <span class="has-primary-color">
+                        Programas</span>
+                </h2>
             </div>
 
             <div class="wp-block-group alignwide has-shadow-dark has-background-background-color has-background is-content-justification-left is-layout-constrained wp-container-27"
@@ -114,8 +116,8 @@
                 <img src="<?php echo esc_url(get_template_directory_uri()); ?>/images/graduates/diplomado_Page_19.jpg"
                     class="d-block w-100 mx-auto" alt="" style="max-width: 650px !important;">
             </div>
-        </div>        
-	<a href="#carouselGraduates" class="swiper-button-next" role="button" data-bs-slide="next"
+        </div>
+        <a href="#carouselGraduates" class="swiper-button-next" role="button" data-bs-slide="next"
             aria-hidden="true"></a>
         <a href="#carouselGraduates" class="swiper-button-prev" role="button" data-bs-slide="prev"
             aria-hidden="true"></a>
